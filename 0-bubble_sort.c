@@ -1,5 +1,4 @@
 #include "sort.h"
-#include <stdio.h>
 
 /**
  * bubble_sort - sorting an array of integers
@@ -31,3 +30,4 @@ print_array(array, size);
 }
 }
 }
+
