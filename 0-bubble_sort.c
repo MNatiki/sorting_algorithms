@@ -1,6 +1,5 @@
 #include "sort.h"
 #include <stdio.h>
-#include <stdlib.h>
 
 /**
  * bubble_sort - sorting an array of integers
